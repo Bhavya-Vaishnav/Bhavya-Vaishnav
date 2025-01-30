@@ -1,16 +1,14 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&onedark=10&height=200&section=header&text=About%20Bhavya)
 
-<!--
-**Bhavya-Vaishnav/Bhavya-Vaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="start" src="https://github-readme-stats.vercel.app/api?username=Bhavya-Vaishnav&show_icons=true&theme=dracula&line_height=24&hide=stars&hide_border=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya-Vaishnav&layout=compact&theme=dracula&hide_border=true" />
+</a>
 
-Here are some ideas to get you started:
+![trophy](https://github-profile-trophy.vercel.app/?username=Bhavya-Vaishnav&theme=onedark&margin-w=13&margin-h=15&column=7&no-frame=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=100&section=footer)
