@@ -20,7 +20,6 @@
 ---
 
 ### 🤝 Let’s Collaborate On:
-- 🔍 Real-world SaaS tools & utility-based products.
 - 🤝 Team projects that involve **clean code**, **scalable architecture**, and **design-driven development**.
 - 💼 Open-source contributions, hackathons, and anything that fuels **growth and learning**.
 
